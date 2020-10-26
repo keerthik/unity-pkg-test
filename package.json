@@ -1,8 +1,8 @@
 {
   "name": "com.activetheoryinc.tango",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "displayName": "BitGym Package Test",
-  "description": "This is our first package",
+  "description": "This is a test package. This branch is unstable",
   "unity": "2019.3",
   "dependencies": {
     "com.unity.xr.management": "3.2.16",
