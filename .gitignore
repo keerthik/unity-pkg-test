@@ -1,1 +1,1 @@
-*.meta
+# meta files need to be preserved in packages from git

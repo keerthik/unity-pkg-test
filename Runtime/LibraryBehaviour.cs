@@ -7,7 +7,7 @@ public class LibraryBehaviour : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        Debug.Log($"You attached this behaviour from the unstable branch");
     }
 
     // Update is called once per frame
