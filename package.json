@@ -1,0 +1,22 @@
+{
+  "name": "com.activetheoryinc.tango",
+  "version": "0.0.1",
+  "displayName": "BitGym Package Test",
+  "description": "This is our first package",
+  "unity": "2019.3",
+  "dependencies": {
+    "com.unity.xr.management": "3.2.16",
+    "com.unity.modules.xr": "1.0.0"
+ },
+ "keywords": [
+    "bitgym",
+    "tango",
+    "cardio",
+    "cardiosdk"
+  ],
+  "author": {
+    "name": "keerthik",
+    "email": "keerthik@bitgym.com",
+    "url": "https://www.bitgym.com"
+  }
+}

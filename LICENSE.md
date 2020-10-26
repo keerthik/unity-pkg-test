@@ -1,0 +1,1 @@
+You may do what you please with this folder. Just don't stop anyone else from doing anything.
